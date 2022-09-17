@@ -17,6 +17,8 @@
     "roboto-fontface": "0.10.0",
     "unified-network": "0.4.0",
     "vue": "3.2.37",
+    "vue-material-design-icons": "^5.1.2",
+    "vue-router": "4",
     "vuetify": "3.0.0-beta.5"
   },
   "devDependencies": {

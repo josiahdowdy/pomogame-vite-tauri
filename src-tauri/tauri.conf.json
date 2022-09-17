@@ -63,10 +63,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
-        "resizable": true,
-        "title": "Vite Tauri Template",
-        "width": 800
+        "height": 450,
+        "resizable": false,
+        "title": "Pomogrow",
+        "width": 350
       }
     ]
   }
