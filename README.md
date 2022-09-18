@@ -1,3 +1,14 @@
+# To Do
+- [ ] Routing pages
+- [ ] Start timer
+- [ ] Edit timer settings
+- [ ] Create markdown export for Obisidian notes
+- [ ] Markdown graph charts 
+- [x] Bottom navbar
+
+
+
+
 # Vite Tauri Desktop Application Template
 
 This is a starter template for those who want to make a desktop application with web technologies. This template uses the below stack.
