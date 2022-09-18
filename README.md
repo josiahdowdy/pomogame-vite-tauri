@@ -6,6 +6,14 @@
 - [ ] Markdown graph charts 
 - [x] Bottom navbar
 
+## Goal
+A pomodoro timer with a todo list. 
+Add stat points after each finished session, and level up your character.
+- Spine animations. 
+  - Water flowing down
+  - Creatures
+- Mini-game to play during breaks (locked during work sessions)
+  
 
 
 
@@ -25,15 +33,6 @@ Vue.js is an incremental frontend framework which is an absolute joy to work wit
 ### Vuetify 3
 Vuetify is arguably the best component library for Vue 3 and is currently in alpha stage but will soon be ready for production. Lots of premade components will make your job as application developer easier and more fun.
 
-## Installation
-- Ready your workspace according to Tauri. [Tauri Getting Started](https://tauri.app/v1/guides/getting-started/prerequisites/)
-
-  - Note: You only need to install global things such as Rust and other OS level packages. Any thing related to application itself is already installed and ready for you.
-
-- Clone repository
-  - `git clone https://github.com/yooneskh/vite-tauri-template app-name`
-
-- `yarn` (or `npm install` but yarn is preferred)
 
 - Modify these files according to your app.
 
@@ -73,5 +72,4 @@ This launches Tauri window and you would see your app in the native window.
 
 `yarn build` builds web application and packages them with Tauri in "./src-tauri/target/releases".
 
-## License
-Do whatever you want with it!
+
